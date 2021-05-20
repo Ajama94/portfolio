@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'I am at the point where I can build multipage websites with my HTML, CSS and my basic Javascript knowledge. Due to the ever evolving industry, I made sure to understand frameworks and my most commonly used is React. Which allows me to efficiently build websites with a beautiful and functional user interface.',
   paragraphThree:
-    'I chose to be a developer to be inspired, to inspire and create an impact in whatever way I can. These projects below are an example of my growth throughout the year. I am excited for more growth. ',
+    'I chose to be a developer to be inspired, to inspire and create an impact in whatever way I can. These projects below are an example of my growth throughout the year. I am excited for more growth.',
 
   resume:
     'https://docs.google.com/document/d/1nuhP53UinIvn-7G39f6TrLDcVILye3gkmlY1HYgfIb8/edit?usp=sharing',
