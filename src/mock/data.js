@@ -26,7 +26,7 @@ export const aboutData = {
     'I chose to be a developer to be inspired, to inspire and create an impact in whatever way I can. These projects below are an example of my growth throughout the year. I am excited for more growth. ',
 
   resume:
-    'https://docs.google.com/document/d/19QOQvC3G0VqbrrF6Zrasg01WbV0yMPoKsNLJVJASePk/edit?usp=sharing',
+    'https://docs.google.com/document/d/1nuhP53UinIvn-7G39f6TrLDcVILye3gkmlY1HYgfIb8/edit?usp=sharing',
 };
 
 // PROJECTS DATA
