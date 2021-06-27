@@ -19,14 +19,14 @@ export const heroData = {
 export const aboutData = {
   img: 'nofade.jpg',
   paragraphOne:
-    'The pandemic created a lot of change for me, whereby I began to question what I really wanted for myself. After much research, my journey into tech began. Learning how to code has been one of the hardest yet most rewarding things I have accomplished in my life.',
+    'Hi there, I am a Software Engineer based in London. I enjoy building multipage websites with my HTML, CSS and Javascript knowledge. Mostly using the React framework to efficiently build websites with a beautiful and functional user interface.​​',
   paragraphTwo:
-    'I am at the point where I can build multipage websites with my HTML, CSS and my basic Javascript knowledge. Due to the ever evolving industry, I made sure to understand frameworks and my most commonly used is React. Which allows me to efficiently build websites with a beautiful and functional user interface.',
+    'I chose to be a developer to be inspired, to inspire and create an impact. I studied and built these projects whilst working full time, which emphasises my great time management skills, hard work and determination.',
   paragraphThree:
-    'I chose to be a developer to be inspired, to inspire and create an impact in whatever way I can. These projects below are an example of my growth throughout the year. I am excited for more growth.',
+    '',
 
   resume:
-    'https://docs.google.com/document/d/1nuhP53UinIvn-7G39f6TrLDcVILye3gkmlY1HYgfIb8/edit?usp=sharing',
+    'https://docs.google.com/document/d/1d8YIKU2VnDRYhI26SNWv8TXuysXBB35H1u3JjJQ-20o/edit?usp=sharing',
 };
 
 // PROJECTS DATA
