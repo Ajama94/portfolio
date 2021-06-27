@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     'Hi there, I am a Software Engineer based in London. I enjoy building multipage websites with my HTML, CSS and Javascript knowledge. Mostly using the React framework to efficiently build websites with a beautiful and functional user interface.​​',
   paragraphTwo:
-    'I chose to be a developer to be inspired, to inspire and create an impact. I studied and built these projects whilst working full time, which emphasises my great time management skills, hard work and determination.',
+    'I chose to be a developer to be inspired, to inspire and create an impact. I studied and built these projects whilst working full time, which emphasises my great time management skills, hard work and determination. ',
   paragraphThree:
     '',
 
